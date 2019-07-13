@@ -1,4 +1,10 @@
+
+```
+使用多线程技术爬取1024xp图片栏目
+失败重试
 # http://a1.fkncjgdbb.xyz/pw/thread.php?fid=15
+```
+
 import os
 import re
 import socket
